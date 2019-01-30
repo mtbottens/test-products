@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "sku": "TEST-1",
+            "price": 49.99,
+            "name": "Some Test Product"
+        },
+        {
+            "id": 2,
+            "sku": "TEST-2",
+            "price": 19.99,
+            "name": "Product of Testing"
+        },
+        {
+            "id": 3,
+            "sku": "TEST-3",
+            "price": 30.99,
+            "name": "This one wins"
+        }
+    ]
+}
